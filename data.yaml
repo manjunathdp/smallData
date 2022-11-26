@@ -1,0 +1,7 @@
+train: fullDataset/train/images
+val: fullDataset/valid/images
+test: fullDataset/test/images
+
+nc: 2
+names: ['abw', 'pbw']
+
